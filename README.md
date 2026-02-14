@@ -85,7 +85,8 @@ Defined key performance indicators:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard Screenshot.png)
+![Dashboard Preview](Dashboard%20Screenshot.png)
+
 
 ---
 
